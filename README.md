@@ -22,5 +22,5 @@ wget -O webpack-fake.config.js https://raw.githubusercontent.com/scred666/config
 ### storybook aliases
 _pre-processor loaders_
 ```
-wget -O main.js https://raw.githubusercontent.com/scred666/configs/master/storybook.main.js
+wget -O main.js https://raw.githubusercontent.com/scred666/configs/master/storybook/main.js
 ```
